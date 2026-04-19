@@ -4,18 +4,14 @@
 💻 Web Development • Problem Solving • System Design
 🚀 Building real-world projects & learning by doing
 
----
 
 ## 🧭 About Me
 
 I'm a first-year software engineering student passionate about building useful and structured digital solutions.
 I enjoy turning ideas into real applications through teamwork, internships, and personal projects.
 
----
 
 ## 🚀 Projects Portfolio
-
----
 
 ### 🇹🇳 XploreTN
 
@@ -28,7 +24,7 @@ A smart tourism platform that promotes and simplifies the discovery of places an
 * Local tourism promotion
 * User-friendly navigation
 
----
+
 
 ### 🧭 Orbit
 
@@ -68,7 +64,6 @@ A full-stack e-learning platform designed to improve online education experience
 * User-friendly interface
 * Remote internship experience
 
----
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +72,7 @@ A full-stack e-learning platform designed to improve online education experience
 - **Backend:** Node.js, Express.js  
 - **Databases:** MySQL, Oracle (PL/SQL), SQLite  
 - **Tools:** Git, GitHub  
----
+
 
 ## 📚 Currently Learning
 
@@ -86,7 +81,7 @@ A full-stack e-learning platform designed to improve online education experience
 * System Design & Architecture
 * Databases & optimization
 
----
+
 
 ## 🎯 Goals
 
@@ -95,7 +90,7 @@ A full-stack e-learning platform designed to improve online education experience
 * Build scalable and useful digital products
 * Grow toward entrepreneurship in tech
 
----
+
 
 ## 📫 Contact
 

@@ -70,7 +70,7 @@ A full-stack e-learning platform designed to improve online education experience
 - **Languages:** Java, C++, JavaScript, TypeScript  
 - **Frontend:** HTML, CSS, React  
 - **Backend:** Node.js, Express.js  
-- **Databases:** MySQL, Oracle (PL/SQL), SQLite  
+- **Databases:** MySQL, Oracle (PL/SQL), PostgreSQL , prismaORM
 - **Tools:** Git, GitHub  
 
 

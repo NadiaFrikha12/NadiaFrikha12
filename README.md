@@ -49,7 +49,7 @@ A campus-oriented platform designed to support **student small businesses and se
 * Communication between students
 * Digital campus marketplace concept
 
----
+
 
 ### 🌐 E-learning Platform
 
@@ -95,7 +95,7 @@ A full-stack e-learning platform designed to improve online education experience
 ## 📫 Contact
 
 * GitHub: https://github.com/NadiaFrikha12
-* LinkedIn: [(add your link here)](https://www.linkedin.com/in/nadia-frikha-b6ba58283/?skipRedirect=true)
+* LinkedIn: [(Nadia Frikha)](https://www.linkedin.com/in/nadia-frikha-b6ba58283/?skipRedirect=true)
 * Email: nadiafrikha12@gmail.com
 
 ---
